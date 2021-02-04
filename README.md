@@ -8,9 +8,9 @@ Configure your host to use [EC2 Instance Connect](https://docs.aws.amazon.com/AW
 
 ---------------------------------------------------
 
-To connect using AWS Instance Connect, be sure your keys "id_rsa" and "id_rsa.pub" are in the current directory.
+To connect using AWS Instance Connect, be sure your keys "**id_rsa**" and "**id_rsa.pub**" are in the current directory.
 
 **USAGE:** 
 ```
-./instance_connect.sh instance_name
+./instance_connect.sh your_instance_name
 ```
