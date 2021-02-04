@@ -4,7 +4,7 @@
 
 ![ec2-ic](https://user-images.githubusercontent.com/35708820/106826260-90f20c00-6654-11eb-8758-8a4ed526d25b.png)
  
-Configure your host to use [EC2 Instance Connect](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-connect-set-up.html)
+>Configure your host to use [EC2 Instance Connect](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-connect-set-up.html)<
 
 ---------------------------------------------------
 
