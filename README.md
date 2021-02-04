@@ -1,4 +1,4 @@
-# AWS EC2 INSTANCE CONNECT
+# AWS EC2 Instance Connect
 
 Configure your host to use [EC2 Instance Connect](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-connect-set-up.html)
 
