@@ -11,7 +11,7 @@ To connect using AWS Instance Connect, be sure your keys "**id_rsa**" and "**id_
 
 **USAGE:** 
 ```
-Help
+**Help**
 
 ./instance_connect.sh -h
 
